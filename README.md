@@ -10,9 +10,11 @@ Connect with me:
 ## Project languages:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flynnWhelehan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
+![](https://images.unsplash.com/photo-1511914265872-c40672604a80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80)
+
 <h3 align="left">Languages and Tools:</h3>
 <p 
-   align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/tree/master/programming%20languages/java.svg" alt="c" width="40"  
+   align="left"> <a href="https://github.com/yurijserrano/Github-Profile-Readme-Logos/tree/master/programming%20languages/" target="_blank"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/tree/master/programming%20languages/java.svg" alt="c" width="40"  
                                                                                height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img
                                                                                src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"
                                                                                alt="cplusplus" width="40" height="40"/> </a>
