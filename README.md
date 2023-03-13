@@ -8,6 +8,10 @@ Connect with me:
    href="https://www.java.com/en/">
   <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Java_programming_language_logo.png" height="50" alt="Java" title="Java">
 </a>
+<a 
+   href="https://www.java.com/en/">
+  <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Java_programming_language_logo.png" height="50" alt="Java" title="Java">
+</a>
 
 - X - Used in...
 - Y - Used in...
