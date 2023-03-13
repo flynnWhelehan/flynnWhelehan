@@ -12,13 +12,6 @@ Connect with me:
 
 <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Java_programming_language_logo.png" height="50" alt="Java" title="Java">
 
-<figure>
-  <img
-  src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Java_programming_language_logo.png"
-  alt="Java"
-  width="Height">
-  <figcaption>Java</figcaption>
-</figure>
 <!--
 ## Main Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=flynnWhelehan&repo=ThirdYear)](https://github.com/flynnWhelehan/thirdYear)
