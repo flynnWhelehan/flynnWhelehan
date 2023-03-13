@@ -1,4 +1,6 @@
 # Flynn Whelehan - Computer Science (AI) at RHUL
+<a href="https://www.linkedin.com/in/flynnWhelehan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flynnWhelehan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
