@@ -6,11 +6,34 @@ Connect with me:
 ## My languages/technologies:
 <a 
    href="https://www.java.com/en/">
-  <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/java.png" height="50" alt="Java">
+   <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/java.png" height="50" alt="Java">
 </a>
 <a
    href="https://www.scala-lang.org/">
-  <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/scala.png" height="50" alt="Scala">
+   <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/scala.png" height="50" alt="Scala">
+</a>
+<a
+   href="https://www.python.org/">
+   <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/python.png" height="50" alt="Python">
+</a>
+<a
+   href="https://scikit-learn.org/stable/">
+   <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/scikitlearn.png" height="50" alt="SciKitLearn">
+</a>
+<a
+   href="https://numpy.org/">
+   <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/numpy.png" height="50" alt="NumPy">
+</a>
+<a
+   href="https://en.wikipedia.org/wiki/SQL">
+   <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/sql.png" height="50" alt="SQL">
+</a>
+<a>
+   <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/weddev.png" height="50" alt="WebDev">
+</a>
+<a
+   href="https://en.wikipedia.org/wiki/C_(programming_language)">
+   <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/c.png" height="50" alt="C">
 </a>
 
 
