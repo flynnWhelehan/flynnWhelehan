@@ -1,4 +1,5 @@
-# Flynn Whelehan (He/Him) - Computer Science (AI) at RHUL
+# Flynn Whelehan (He/Him)
+- ## Computer Science (AI) at RHUL
 Connect with me:
 <a href="https://www.linkedin.com/in/flynnWhelehan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
