@@ -15,8 +15,8 @@ Connect with me:
 <figure>
   <img
   src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Java_programming_language_logo.png"
-  alt="Java">
-  width=100
+  alt="Java"
+  width="Height">
   <figcaption>Java</figcaption>
 </figure>
 <!--
