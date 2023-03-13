@@ -10,7 +10,7 @@ Connect with me:
 ## Project languages:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flynnWhelehan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-<img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Java_programming_language_logo.png" width="100" height="100">
+<img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Java_programming_language_logo.png" height="100">
 <!--
 ## Main Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=flynnWhelehan&repo=ThirdYear)](https://github.com/flynnWhelehan/thirdYear)
