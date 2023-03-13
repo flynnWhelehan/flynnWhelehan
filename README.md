@@ -4,15 +4,17 @@ Connect with me:
 <a href="https://www.linkedin.com/in/flynnWhelehan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## My languages:
+<a 
+   href="https://www.java.com/en/">
+  <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Java_programming_language_logo.png" height="50" alt="Java" title="Java">
+</a>
+
 - X - Used in...
 - Y - Used in...
 
 ## Project languages:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flynnWhelehan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<a 
-   href="https://www.java.com/en/">
-  <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Java_programming_language_logo.png" height="50" alt="Java" title="Java">
-</a>
+
 <!--
 ## Main Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=flynnWhelehan&repo=ThirdYear)](https://github.com/flynnWhelehan/thirdYear)
