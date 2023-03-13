@@ -3,16 +3,16 @@
 Connect with me:
 <a href="https://www.linkedin.com/in/flynnWhelehan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-## My languages:
+## My languages/technologies:
 <a 
    href="https://www.java.com/en/">
   <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/java.png" height="50" alt="Java">
+</a>
+<a
    href="https://www.scala-lang.org/">
   <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/scala.png" height="50" alt="Scala">
 </a>
 
-- X - Used in...
-- Y - Used in...
 
 ## Project languages:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flynnWhelehan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
