@@ -6,11 +6,11 @@ Connect with me:
 ## My languages:
 <a 
    href="https://www.java.com/en/">
-  <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Java_programming_language_logo.png" height="50" alt="Java" title="Java">
+  <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/java.png" height="50" alt="Java">
 </a>
 <a 
-   href="https://www.java.com/en/">
-  <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Java_programming_language_logo.png" height="50" alt="Java" title="Java">
+   href="https://www.scala-lang.org/">
+  <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/scala.png" height="50" alt="Scala">
 </a>
 
 - X - Used in...
