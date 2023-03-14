@@ -36,6 +36,10 @@ Connect with me:
    href="https://en.wikipedia.org/wiki/C_(programming_language)">
    <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/c.png" height="50" alt="C">
 </a>
+<a
+   href="https://www.swi-prolog.org/">
+   <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/swiprolog.png" height="50" alt="Prolog">
+</a>
 
 
 ## Project languages:
