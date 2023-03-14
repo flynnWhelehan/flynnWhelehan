@@ -30,7 +30,7 @@ Connect with me:
 </a>
 <a
    href="https://en.wikipedia.org/wiki/Web_development">
-   <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/WedDev.png" height="50" alt="WebDev">
+   <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/WebDev.png" height="50" alt="WebDev">
 </a>
 <a
    href="https://en.wikipedia.org/wiki/C_(programming_language)">
