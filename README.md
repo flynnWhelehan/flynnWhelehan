@@ -3,10 +3,8 @@
    <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/bannerCropped.png" alt="Banner">
 </a>
 
-# Flynn Whelehan (He/Him)
+# Flynn Whelehan (He/Him) Connect with me: <a href="https://www.linkedin.com/in/flynnWhelehan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 - ## Computer Science (AI) at RHUL
-Connect with me:
-<a href="https://www.linkedin.com/in/flynnWhelehan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## My languages/technologies:
 <a 
