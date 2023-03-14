@@ -29,7 +29,7 @@ Connect with me:
    <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/sql.png" height="50" alt="SQL">
 </a>
 <a>
-   <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/weddev.png" height="50" alt="WebDev">
+   <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/WedDev.png" height="50" alt="WebDev">
 </a>
 <a
    href="https://en.wikipedia.org/wiki/C_(programming_language)">
