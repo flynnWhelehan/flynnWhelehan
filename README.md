@@ -15,27 +15,27 @@ Connect with me:
 <a
    href="https://www.python.org/">
    <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/python.png" height="50" alt="Python">
-</a>
+</a> ,
 <a
    href="https://scikit-learn.org/stable/">
    <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/scikitlearn.png" height="50" alt="SciKitLearn">
-</a>
+</a> ,
 <a
    href="https://numpy.org/">
    <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/numpy.png" height="50" alt="NumPy">
-</a>
+</a> ,
 <a
    href="https://en.wikipedia.org/wiki/SQL">
    <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/sql.png" height="50" alt="SQL">
-</a>
+</a> ,
 <a
    href="https://en.wikipedia.org/wiki/Web_development">
    <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/WebDev.png" height="50" alt="WebDev">
-</a>
+</a> ,
 <a
    href="https://en.wikipedia.org/wiki/C_(programming_language)">
    <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/c.png" height="50" alt="C">
-</a>
+</a> ,
 <a
    href="https://www.swi-prolog.org/">
    <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/swipl.png" height="50" alt="Prolog">
