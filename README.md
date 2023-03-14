@@ -1,6 +1,6 @@
 <a 
    href="">
-   <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/banner.HEIC" alt="Banner">
+   <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/banner.png" alt="Banner">
 </a>
 
 # Flynn Whelehan (He/Him)
