@@ -3,6 +3,21 @@
    <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/bannerCropped.png" alt="Banner">
 </a>
 
+header {
+  display: flex;
+  align-items: center;
+  
+  /* Remove the next line if you want the span to appear next to the h1 */
+  justify-content: space-between;
+  
+  border-bottom: 1px solid #000;
+  padding: 10px 30px;
+}
+<header>
+  <h1>Text</h1>
+  <span>at the end</span>
+</header>
+
 # Flynn Whelehan (He/Him) Connect with me: <a href="https://www.linkedin.com/in/flynnWhelehan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 - ## Computer Science (AI) at RHUL
 
