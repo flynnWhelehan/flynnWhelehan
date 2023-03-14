@@ -7,12 +7,11 @@ Connect with me:
 <a 
    href="https://www.java.com/en/">
    <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/java.png" height="50" alt="Java">
-</a>
-,
+</a> ,
 <a
    href="https://www.scala-lang.org/">
    <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/scala.png" height="50" alt="Scala">
-</a>
+</a> ,
 <a
    href="https://www.python.org/">
    <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/python.png" height="50" alt="Python">
