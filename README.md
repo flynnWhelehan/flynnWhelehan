@@ -1,3 +1,8 @@
+<a 
+   href="">
+   <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/banner.png" alt="Banner">
+</a>
+
 # Flynn Whelehan (He/Him)
 - ## Computer Science (AI) at RHUL
 Connect with me:
