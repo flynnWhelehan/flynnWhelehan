@@ -28,7 +28,7 @@ Connect with me:
    href="https://en.wikipedia.org/wiki/SQL">
    <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/sql.png" height="50" alt="SQL">
 </a>
-<a>
+<a
    <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/WedDev.png" height="50" alt="WebDev">
 </a>
 <a
