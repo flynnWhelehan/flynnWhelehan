@@ -38,7 +38,7 @@ Connect with me:
 </a>
 <a
    href="https://www.swi-prolog.org/">
-   <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/swiprolog.png" height="50" alt="Prolog">
+   <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/swipl.png" height="50" alt="Prolog">
 </a>
 
 
