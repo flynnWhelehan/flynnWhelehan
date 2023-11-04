@@ -45,9 +45,10 @@ Connect with me: <a href="https://www.linkedin.com/in/flynnWhelehan/" target="_b
    <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/swipl.png" height="50" alt="Prolog">
 </a>
 
-
+<!--
 ## Project languages:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flynnWhelehan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+-->
 
 <!--
 ## Main Repositories
