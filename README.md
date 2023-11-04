@@ -7,6 +7,7 @@
 - ## Computer Science (AI) at RHUL
 Connect with me: <a href="https://www.linkedin.com/in/flynnWhelehan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
+<!--
 ## My languages/technologies:
 <a 
    href="https://www.java.com/en/">
@@ -44,6 +45,7 @@ Connect with me: <a href="https://www.linkedin.com/in/flynnWhelehan/" target="_b
    href="https://www.swi-prolog.org/">
    <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/Logos/swipl.png" height="50" alt="Prolog">
 </a>
+-->
 
 <!--
 ## Project languages:
