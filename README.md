@@ -1,10 +1,5 @@
-<a 
-   href="">
-   <img src="https://github.com/flynnWhelehan/flynnWhelehan/blob/main/images/bannerCroppedMore.png" alt="Banner">
-</a>
-
-# Flynn Whelehan (He/Him), Computer Science (AI) at RHUL
-Connect with me: <a href="https://www.linkedin.com/in/flynnWhelehan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/flynnWhelehan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+# Flynn Whelehan - Software Engineer, MSci Computer Science (AI)
 
 <!--
 ## My languages/technologies:
